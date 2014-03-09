@@ -1,4 +1,4 @@
 payu_docs
 =========
 
-Integration documents, user guides, API documentations etc.
+PayU India integration documents, user guides, API documentations etc.
